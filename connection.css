@@ -1,0 +1,174 @@
+.mon_compte1
+{
+	text-align: center;
+  font-size: 30px;
+  font-family : arial;
+  margin-top:px;
+  
+  vertical-align: 50px;
+  color: black;
+  border-bottom: 30px;
+
+  
+}
+.pseudo
+{
+	width: 300px;
+	height: 50px;
+	margin-right: auto;
+	
+	margin-top: 50px;
+	border: outset;
+	text-align: center;
+}
+
+.mot_de_passe
+{
+	width: 300px;
+	height: 50px;
+	margin-right: auto;
+	
+	margin-top: 50px;
+	border: outset;
+}
+
+.div1
+{
+	width: 500px;
+	height: 60%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 20px;
+	margin-top: 5%;
+
+	border: outset;
+	background-color: #4FC0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	
+
+}
+.envoyerG
+{
+	width: 50%;
+	height: 50%;
+	
+	
+	border: 5px solid green;
+	border-radius: 20px;
+	background-color: white;
+	font-size: 50px;
+	font-family: verdana;
+	text-align: center;
+	
+	display: flex;
+	justify-content: center;
+}
+
+.envoyer
+{
+	margin:auto;
+	width: 75%;
+	height: 20%;
+	order: 5px solid green;
+	border-radius: 20px;
+	background-color: white;
+	font-size: 25px;
+	font-family: verdana;
+	display: flex;
+	justify-content: center;
+	margin-top: 25%;
+}
+.labelpseudo
+{
+	font-family: verdana;
+	display: flex;
+	justify-content: center;
+	margin-top: 2%
+}
+.connecte
+{
+	font-family: verdana;
+	display: flex;
+	justify-content: center;
+	margin-top: 2%
+}
+.titre
+{
+	width: max;
+	height: 150px;
+	margin-right: auto;
+	margin-left: auto;
+	color:black;
+	
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+
+	
+
+	
+
+	
+	background-color: #E3E3E3;
+}
+.drole
+{
+ margin-left: 50px;
+ height: 100px;
+ width: 250px;
+}
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.5em;
+    color: grey;
+    padding-bottom: 3px;
+    text-decoration: none;
+    font-family: arial;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+nav a:hover
+{
+    color: green;
+    
+}
+.page
+{
+	height: 1000px;
+	width: max;
+}
+.pied_page
+{
+	height: 250px;
+	
+	
+	background-color: #D9DBDA;
+	margin-top: 100px;
+	
+
+}
+.mon_compteP
+{
+	text-align: center;
+	font-family: verdana;
+	font-size: 15px;
+
+}
